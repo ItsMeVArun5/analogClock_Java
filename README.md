@@ -1,6 +1,4 @@
 # analogClock_Java
 
--->PROGRAM: analog Clock
--->LIBRARIES: processing (core.jar)
--->language: Java
+created analog clock in java using processing libraries......
 
