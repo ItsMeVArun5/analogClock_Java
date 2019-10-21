@@ -1,6 +1,6 @@
-import processing.core.PApplet;
+import processing.core.PApplet; //java library
 
-class Clock extends PApplet{
+class Clock extends PApplet{  //extends keyword signifies class inheritance
 
     public void settings(){
 		size(800, 800);
